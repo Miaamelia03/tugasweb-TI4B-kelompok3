@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background-color: #fff
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #555
+}
+
+.program {
+    margin: 20px 0;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.program h2 {
+    color: #0056b3;
+}
+
+.program p {
+    color: rgb(135, 36, 120);
+    line-height: 1.6;
+}
